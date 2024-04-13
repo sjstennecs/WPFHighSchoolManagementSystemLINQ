@@ -7,7 +7,9 @@
         private double _gpa;
         private bool _probationary;
         private int _yearGroup;
+        private int _id;
 
+        public int ID { get { return _id; } set { _id = value; } }
         public double Gpa { get { return _gpa; } set { _gpa = value; } }
         public bool ProbationaryStudent { get { return _probationary; } set { _probationary = value; } }
         public int YearGroup { get { return _yearGroup; } set { _yearGroup = value; } }
