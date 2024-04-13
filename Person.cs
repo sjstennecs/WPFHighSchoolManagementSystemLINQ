@@ -10,7 +10,7 @@ namespace WPFHighSchoolManagementSystemLINQ
 
         public string Name { get { return _name; } set { _name = value; } }
         public int Age { get { return _age; } set { _age = value; } }
-        public string Gender { get { return _gender; } set { _name = value; } }
+        public string Gender { get { return _gender; } set { _gender = value; } }
 
 
         public Person() {

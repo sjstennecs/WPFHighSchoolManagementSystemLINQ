@@ -25,9 +25,9 @@ namespace WPFHighSchoolManagementSystemLINQ
             InitializeComponent();
 
 
+            Student testStudent = new Student("Jack", 18, "Male", 3.75, false, 2);
 
-
-
+            MessageBox.Show(testStudent.StudentToString());
 
 
 
