@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFHighSchoolManagementSystemLINQ"
         mc:Ignorable="d"
-        Title="La Joya Community High School Admin System" Height="450" Width="800">
+        Title="High School Admin System" Height="450" Width="800">
     <Grid>
         
     </Grid>
